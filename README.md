@@ -105,17 +105,7 @@ After implementing the functions, the **main method** was used to:
 #### **Execution Output in IntelliJ IDEA**  
 The execution output from IntelliJ IDEA confirms that the operations were performed correctly:
 
-```
-File Content:
-Hello, this is a sample text file.
-This file will demonstrate file handling in Java.
-
-Modified File Content:
-Hello, this is a example text file.
-This file will demonstrate file handling in Java.
-
-Process finished with exit code 0
-```
+![task 1 output](https://github.com/user-attachments/assets/9bcaad93-c485-4d95-b75f-367372ec1dca)
 
 - **Before modification:** The file contained `"Hello, this is a sample text file."`
 - **After modification:** The word `"sample"` was changed to `"example"` in `"Hello, this is a example text file."`
@@ -128,10 +118,6 @@ Process finished with exit code 0
 - **Ran the program** and verified the outputs.
 - **Used IntelliJ's built-in terminal** to execute and debug the Java code.
 - **Displayed console logs** confirming successful execution.
-
----
-### Output:
-![task 1 output](https://github.com/user-attachments/assets/9bcaad93-c485-4d95-b75f-367372ec1dca)
 
 ---
 
