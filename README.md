@@ -1,4 +1,4 @@
-# CODTECH_task_1_File-Handling-Utility
+# CODTECH_task-1_File-Handling-Utility
 ### **Project Description: File Handling Utility in Java**  
 
 This project, titled **"File Handling Utility"**, is an internship task assigned by CODTECH. The objective of this task is to develop a Java-based program that demonstrates fundamental file operations, including **reading, writing, and modifying** text files. The deliverable includes a well-structured Java script with clear documentation to illustrate file handling functionalities effectively.
