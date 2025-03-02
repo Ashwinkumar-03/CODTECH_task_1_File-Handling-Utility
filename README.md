@@ -130,6 +130,10 @@ Process finished with exit code 0
 - **Displayed console logs** confirming successful execution.
 
 ---
+### Output:
+![task 1 output](https://github.com/user-attachments/assets/9bcaad93-c485-4d95-b75f-367372ec1dca)
+
+---
 
 ### **Conclusion**
 The **File Handling Utility** program successfully demonstrates essential file operations in Java. It efficiently performs writing, reading, and modifying text files while ensuring **code readability and maintainability**. The structured approach taken in **IntelliJ IDEA** facilitated a seamless development and testing process. This project serves as a fundamental example of handling files in Java and provides a solid foundation for more advanced file-processing applications.
